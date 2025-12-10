@@ -26,8 +26,8 @@ Internet
 - [x] pfSense Installed  
 - [x] Ubuntu Installed  
 - [x] Kali Linux Installed  
-- [*] Static IP Assignment  
-- [*] Firewall Rules  
+- [x] Static IP Assignment  
+- [x] Firewall Rules  
 - [ ] Server Hardening  
 - [ ] Controlled Attack Testing  
 
