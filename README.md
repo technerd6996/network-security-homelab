@@ -28,8 +28,11 @@ Internet
 - [x] Kali Linux Installed  
 - [x] Static IP Assignment  
 - [x] Firewall Rules  
-- [ ] Server Hardening  
-- [ ] Controlled Attack Testing  
+- [x] Server Hardening  
+- [x] Controlled Attack Testing
+- [ ] Enable Firewalls to communicate between laptop VMs and Host VMs
+- [ ] Need to deploy file server to upload files in Host to backup photos and videos
+- [ ] Install Graylog to monitor the traffic between the VMs
 
 ## 🛠 Tools & Technologies
 
